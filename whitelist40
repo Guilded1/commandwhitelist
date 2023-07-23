@@ -1,5 +1,3 @@
 {
-  "whitelisted_users": [
-    "test"
-  ]
+  "whitelisted_users": []
 }
